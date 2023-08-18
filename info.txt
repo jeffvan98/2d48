@@ -1,0 +1,1 @@
+HostName=iot-0cad.azure-devices.net;DeviceId=5880928c-c09c-4dcd-939b-bdea7c3da506;SharedAccessKey=ivSd8vEhw0aBqNtjqi+yYU9/J0J3F7+g9YvRjNl+po4=
